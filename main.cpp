@@ -1,10 +1,7 @@
 #include <iostream>
-#include <conio.h>
 
-using namespase std;
+using namespañe std;
 
 int main(){
-
 cout<<"hello world";
-
 }
